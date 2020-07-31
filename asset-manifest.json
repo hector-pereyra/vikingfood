@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/vikingfood/static/css/main.7393f3a9.chunk.css",
+    "main.js": "/vikingfood/static/js/main.953da146.chunk.js",
+    "main.js.map": "/vikingfood/static/js/main.953da146.chunk.js.map",
+    "runtime-main.js": "/vikingfood/static/js/runtime-main.a830aa30.js",
+    "runtime-main.js.map": "/vikingfood/static/js/runtime-main.a830aa30.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/vikingfood/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.6b9eb35d.chunk.js": "/vikingfood/static/js/2.6b9eb35d.chunk.js",
+    "static/js/2.6b9eb35d.chunk.js.map": "/vikingfood/static/js/2.6b9eb35d.chunk.js.map",
+    "index.html": "/vikingfood/index.html",
+    "precache-manifest.1b79884e9acde7d6e5911cd6b1203031.js": "/vikingfood/precache-manifest.1b79884e9acde7d6e5911cd6b1203031.js",
+    "service-worker.js": "/vikingfood/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/vikingfood/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.7393f3a9.chunk.css.map": "/vikingfood/static/css/main.7393f3a9.chunk.css.map",
+    "static/js/2.6b9eb35d.chunk.js.LICENSE.txt": "/vikingfood/static/js/2.6b9eb35d.chunk.js.LICENSE.txt",
+    "static/media/LOGOBLACK.png": "/vikingfood/static/media/LOGOBLACK.ade26607.png",
+    "static/media/bluecrabicon.png": "/vikingfood/static/media/bluecrabicon.3f374921.png",
+    "static/media/callidown.png": "/vikingfood/static/media/callidown.b79c660a.png",
+    "static/media/calliup.png": "/vikingfood/static/media/calliup.a6cec513.png",
+    "static/media/cangrejoabout.png": "/vikingfood/static/media/cangrejoabout.c9318296.png",
+    "static/media/claws.png": "/vikingfood/static/media/claws.2f3995a8.png",
+    "static/media/index.css": "/vikingfood/static/media/home.6fe63806.jpg",
+    "static/media/lamp.png": "/vikingfood/static/media/lamp.5a473810.png",
+    "static/media/mission.png": "/vikingfood/static/media/mission.db3bcdad.png",
+    "static/media/navmenu.jpg": "/vikingfood/static/media/navmenu.efa5e2b1.jpg",
+    "static/media/phylosophy.png": "/vikingfood/static/media/phylosophy.1217cc53.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a830aa30.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.6b9eb35d.chunk.js",
+    "static/css/main.7393f3a9.chunk.css",
+    "static/js/main.953da146.chunk.js"
+  ]
+}
