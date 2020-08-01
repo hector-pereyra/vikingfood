@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vikingfood/precache-manifest.f64861d1232d3f0d72f6d53c8b44b070.js"
+  "/vikingfood/precache-manifest.d4dcbd4ff2afb477bc368a7e1eda10de.js"
 );
 
 self.addEventListener('message', (event) => {
