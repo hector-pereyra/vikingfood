@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "add55092c7777ce6754aa6279b65765e",
+    "revision": "07efa12583975ab5f4c863b40e355210",
     "url": "/vikingfood/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vikingfood/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "79e7d3167e92e9150a87",
-    "url": "/vikingfood/static/css/main.0af62a0a.chunk.css"
+    "revision": "09bd8bc4e9a3eeaf4673",
+    "url": "/vikingfood/static/css/main.b87ef120.chunk.css"
   },
   {
     "revision": "8f00ea52d4261e573398",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vikingfood/static/js/2.6b9eb35d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79e7d3167e92e9150a87",
+    "revision": "09bd8bc4e9a3eeaf4673",
     "url": "/vikingfood/static/js/main.d439c9e2.chunk.js"
   },
   {
