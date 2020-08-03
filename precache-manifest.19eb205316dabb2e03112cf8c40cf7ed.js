@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c51efeb5c0631c1c2b489123781168d",
+    "revision": "87c66b165d0634f5a52193118236bd50",
     "url": "/vikingfood/index.html"
   },
   {
-    "revision": "8f00ea52d4261e573398",
+    "revision": "7435150e4b13bab09821",
     "url": "/vikingfood/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "9dfce340c605f5d9322e",
-    "url": "/vikingfood/static/css/main.1d18bdde.chunk.css"
+    "revision": "75ea6630b3ed4caab439",
+    "url": "/vikingfood/static/css/main.40db5d42.chunk.css"
   },
   {
-    "revision": "8f00ea52d4261e573398",
-    "url": "/vikingfood/static/js/2.6b9eb35d.chunk.js"
+    "revision": "7435150e4b13bab09821",
+    "url": "/vikingfood/static/js/2.fcbf3e56.chunk.js"
   },
   {
     "revision": "618d9e067b5f7c0ee048a43ae1109b7d",
-    "url": "/vikingfood/static/js/2.6b9eb35d.chunk.js.LICENSE.txt"
+    "url": "/vikingfood/static/js/2.fcbf3e56.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9dfce340c605f5d9322e",
-    "url": "/vikingfood/static/js/main.d439c9e2.chunk.js"
+    "revision": "75ea6630b3ed4caab439",
+    "url": "/vikingfood/static/js/main.d0834f7b.chunk.js"
   },
   {
     "revision": "413257dd6f00d69ebe88",
