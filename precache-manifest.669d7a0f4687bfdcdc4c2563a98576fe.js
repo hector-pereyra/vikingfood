@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70f366ea651690dabd6006c001fe1d94",
+    "revision": "dfffe4b104842294738b75a2b2abb39d",
     "url": "/vikingfood/index.html"
   },
   {
-    "revision": "6f597e7bff295594cd30",
+    "revision": "6c8f34ee463f04ef9f5a",
     "url": "/vikingfood/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "887d13e7a029ac0ff3d9",
-    "url": "/vikingfood/static/css/main.3290f5f2.chunk.css"
+    "revision": "800fd1a413e52c3282ad",
+    "url": "/vikingfood/static/css/main.9248b029.chunk.css"
   },
   {
-    "revision": "6f597e7bff295594cd30",
-    "url": "/vikingfood/static/js/2.4a5f89b8.chunk.js"
+    "revision": "6c8f34ee463f04ef9f5a",
+    "url": "/vikingfood/static/js/2.af3ca81b.chunk.js"
   },
   {
-    "revision": "618d9e067b5f7c0ee048a43ae1109b7d",
-    "url": "/vikingfood/static/js/2.4a5f89b8.chunk.js.LICENSE.txt"
+    "revision": "5403b55c1cb422a72be68a013c0b9049",
+    "url": "/vikingfood/static/js/2.af3ca81b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "887d13e7a029ac0ff3d9",
-    "url": "/vikingfood/static/js/main.ca408a5c.chunk.js"
+    "revision": "800fd1a413e52c3282ad",
+    "url": "/vikingfood/static/js/main.755f92dd.chunk.js"
   },
   {
     "revision": "413257dd6f00d69ebe88",
@@ -60,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vikingfood/static/media/lamp.5a473810.png"
   },
   {
+    "revision": "fafb5f9bd0b9d5bcc2710ec332d0b6bd",
+    "url": "/vikingfood/static/media/lobster.fafb5f9b.png"
+  },
+  {
     "revision": "db3bcdad1138b0a32e3a36b011dec3c3",
     "url": "/vikingfood/static/media/mission.db3bcdad.png"
   },
@@ -68,7 +72,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vikingfood/static/media/navmenu.efa5e2b1.jpg"
   },
   {
+    "revision": "029f774f9702e3b24006ef955fcf5469",
+    "url": "/vikingfood/static/media/octopus.029f774f.png"
+  },
+  {
+    "revision": "e155d466041bf95fc29a06ed064963a1",
+    "url": "/vikingfood/static/media/oyster.e155d466.png"
+  },
+  {
     "revision": "1217cc538173c19b6f1ab2267d9e6e3d",
     "url": "/vikingfood/static/media/phylosophy.1217cc53.png"
+  },
+  {
+    "revision": "9171074555c05199b071466d82fe0010",
+    "url": "/vikingfood/static/media/shrimp.91710745.png"
   }
 ]);
