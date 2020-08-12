@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vikingfood/static/css/main.9248b029.chunk.css",
-    "main.js": "/vikingfood/static/js/main.755f92dd.chunk.js",
-    "main.js.map": "/vikingfood/static/js/main.755f92dd.chunk.js.map",
+    "main.js": "/vikingfood/static/js/main.2d419431.chunk.js",
+    "main.js.map": "/vikingfood/static/js/main.2d419431.chunk.js.map",
     "runtime-main.js": "/vikingfood/static/js/runtime-main.a830aa30.js",
     "runtime-main.js.map": "/vikingfood/static/js/runtime-main.a830aa30.js.map",
     "static/css/2.829c9cb5.chunk.css": "/vikingfood/static/css/2.829c9cb5.chunk.css",
     "static/js/2.af3ca81b.chunk.js": "/vikingfood/static/js/2.af3ca81b.chunk.js",
     "static/js/2.af3ca81b.chunk.js.map": "/vikingfood/static/js/2.af3ca81b.chunk.js.map",
     "index.html": "/vikingfood/index.html",
-    "precache-manifest.669d7a0f4687bfdcdc4c2563a98576fe.js": "/vikingfood/precache-manifest.669d7a0f4687bfdcdc4c2563a98576fe.js",
+    "precache-manifest.a523012d567dcdf4740595f748e0dd28.js": "/vikingfood/precache-manifest.a523012d567dcdf4740595f748e0dd28.js",
     "service-worker.js": "/vikingfood/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/vikingfood/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.9248b029.chunk.css.map": "/vikingfood/static/css/main.9248b029.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.af3ca81b.chunk.js",
     "static/css/main.9248b029.chunk.css",
-    "static/js/main.755f92dd.chunk.js"
+    "static/js/main.2d419431.chunk.js"
   ]
 }
