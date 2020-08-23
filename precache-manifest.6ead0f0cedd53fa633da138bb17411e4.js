@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f464ae09102e0fcdd9bd0bcb919a5dfe",
+    "revision": "171fb4c3c6e896be5c1dfbc2ff43865e",
     "url": "/vikingfood/index.html"
   },
   {
-    "revision": "6c8f34ee463f04ef9f5a",
+    "revision": "7b5133eb6a52cb4c1a83",
     "url": "/vikingfood/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "694baec2b5d2f2e4b20f",
-    "url": "/vikingfood/static/css/main.9248b029.chunk.css"
+    "revision": "21a7ca1da9677c3d610a",
+    "url": "/vikingfood/static/css/main.913c2294.chunk.css"
   },
   {
-    "revision": "6c8f34ee463f04ef9f5a",
-    "url": "/vikingfood/static/js/2.af3ca81b.chunk.js"
+    "revision": "7b5133eb6a52cb4c1a83",
+    "url": "/vikingfood/static/js/2.f59cd905.chunk.js"
   },
   {
     "revision": "5403b55c1cb422a72be68a013c0b9049",
-    "url": "/vikingfood/static/js/2.af3ca81b.chunk.js.LICENSE.txt"
+    "url": "/vikingfood/static/js/2.f59cd905.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "694baec2b5d2f2e4b20f",
-    "url": "/vikingfood/static/js/main.2d419431.chunk.js"
+    "revision": "21a7ca1da9677c3d610a",
+    "url": "/vikingfood/static/js/main.b2d2c4f9.chunk.js"
   },
   {
     "revision": "413257dd6f00d69ebe88",
@@ -80,8 +80,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vikingfood/static/media/oyster.e155d466.png"
   },
   {
+    "revision": "96b455baa51b8b652db42acb3ff5b371",
+    "url": "/vikingfood/static/media/phone.96b455ba.png"
+  },
+  {
     "revision": "1217cc538173c19b6f1ab2267d9e6e3d",
     "url": "/vikingfood/static/media/phylosophy.1217cc53.png"
+  },
+  {
+    "revision": "11ff989caf046ea671d207f3e290f11f",
+    "url": "/vikingfood/static/media/pin.11ff989c.png"
   },
   {
     "revision": "9171074555c05199b071466d82fe0010",

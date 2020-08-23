@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/vikingfood/static/css/main.9248b029.chunk.css",
-    "main.js": "/vikingfood/static/js/main.2d419431.chunk.js",
-    "main.js.map": "/vikingfood/static/js/main.2d419431.chunk.js.map",
+    "main.css": "/vikingfood/static/css/main.913c2294.chunk.css",
+    "main.js": "/vikingfood/static/js/main.b2d2c4f9.chunk.js",
+    "main.js.map": "/vikingfood/static/js/main.b2d2c4f9.chunk.js.map",
     "runtime-main.js": "/vikingfood/static/js/runtime-main.a830aa30.js",
     "runtime-main.js.map": "/vikingfood/static/js/runtime-main.a830aa30.js.map",
     "static/css/2.829c9cb5.chunk.css": "/vikingfood/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.af3ca81b.chunk.js": "/vikingfood/static/js/2.af3ca81b.chunk.js",
-    "static/js/2.af3ca81b.chunk.js.map": "/vikingfood/static/js/2.af3ca81b.chunk.js.map",
+    "static/js/2.f59cd905.chunk.js": "/vikingfood/static/js/2.f59cd905.chunk.js",
+    "static/js/2.f59cd905.chunk.js.map": "/vikingfood/static/js/2.f59cd905.chunk.js.map",
     "index.html": "/vikingfood/index.html",
-    "precache-manifest.a523012d567dcdf4740595f748e0dd28.js": "/vikingfood/precache-manifest.a523012d567dcdf4740595f748e0dd28.js",
+    "precache-manifest.6ead0f0cedd53fa633da138bb17411e4.js": "/vikingfood/precache-manifest.6ead0f0cedd53fa633da138bb17411e4.js",
     "service-worker.js": "/vikingfood/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/vikingfood/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.9248b029.chunk.css.map": "/vikingfood/static/css/main.9248b029.chunk.css.map",
-    "static/js/2.af3ca81b.chunk.js.LICENSE.txt": "/vikingfood/static/js/2.af3ca81b.chunk.js.LICENSE.txt",
+    "static/css/main.913c2294.chunk.css.map": "/vikingfood/static/css/main.913c2294.chunk.css.map",
+    "static/js/2.f59cd905.chunk.js.LICENSE.txt": "/vikingfood/static/js/2.f59cd905.chunk.js.LICENSE.txt",
     "static/media/LOGOBLACK.png": "/vikingfood/static/media/LOGOBLACK.ade26607.png",
     "static/media/bluecrabicon.png": "/vikingfood/static/media/bluecrabicon.3f374921.png",
     "static/media/callidown.png": "/vikingfood/static/media/callidown.b79c660a.png",
@@ -26,14 +26,16 @@
     "static/media/mission.png": "/vikingfood/static/media/mission.db3bcdad.png",
     "static/media/octopus.png": "/vikingfood/static/media/octopus.029f774f.png",
     "static/media/oyster.png": "/vikingfood/static/media/oyster.e155d466.png",
+    "static/media/phone.png": "/vikingfood/static/media/phone.96b455ba.png",
     "static/media/phylosophy.png": "/vikingfood/static/media/phylosophy.1217cc53.png",
+    "static/media/pin.png": "/vikingfood/static/media/pin.11ff989c.png",
     "static/media/shrimp.png": "/vikingfood/static/media/shrimp.91710745.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a830aa30.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.af3ca81b.chunk.js",
-    "static/css/main.9248b029.chunk.css",
-    "static/js/main.2d419431.chunk.js"
+    "static/js/2.f59cd905.chunk.js",
+    "static/css/main.913c2294.chunk.css",
+    "static/js/main.b2d2c4f9.chunk.js"
   ]
 }
